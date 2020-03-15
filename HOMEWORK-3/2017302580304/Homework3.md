@@ -38,10 +38,10 @@ $$t_{总} = 0.4 \times  t_{缓存器} + 0.6 \times (t_{接入时延} + t_{因特
 
 使用telnet登录武大服务器(whu.edu.cn)的SMTP端口25。但在实验过程中经常与服务器断开连接，错误解析指令或者对某些指令无法正常运行。最开始尝试使用telnet发送邮件时还能进行到编写邮件阶段然后断开了连接，后来就到指定邮件发送者后就连接就自动断开。截图如下：
 
-![SMTP](/img/SMTP.png)
+![SMTP](img/SMTP.png)
 
 ### HTTP
 使用telnet登录武大服务器(maths.whu.edu.cn)的HTTP端口80。在实验过程中一直显示请求为`Bad Request`，无法正常返回请求文档。
 
-![HTTP](/img/HTTP.png)
+![HTTP](img/HTTP.png)
 

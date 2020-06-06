@@ -1,2 +1,5 @@
 ## wireshark pcapng file ##
 lab/*/*.pcapng
+
+####### report ########
+lab/*.docx
